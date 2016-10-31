@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Backand AD Login</string>
+    <string name="login">Login</string>
+    <string name="sharedUserLabel">ad_user</string>
+</resources>
